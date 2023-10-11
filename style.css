@@ -1,0 +1,15 @@
+h1 {
+    color: #320e81; background-color: antiquewhite; margin: 5%; border-radius: 15%;
+}
+
+form {
+    background-color: antiquewhite; color: #320e81; margin: 5%; border-radius:  10%;
+}
+
+section{
+    color: #320e81;
+}
+
+button{
+    color: #320e81; background-color: rgb(229, 111, 145);
+}
